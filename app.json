@@ -1,0 +1,8 @@
+{
+  "name": "FirstTemplate",
+  "displayName": "FirstTemplate",
+  "androidNavigationBar": {
+   "visible": false,
+   "backgroundColor": "#000000"
+  }
+}
